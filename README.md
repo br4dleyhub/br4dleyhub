@@ -1,7 +1,7 @@
 Hi, I'm Bradley [🇭🇹](https://emojitool.com/fr/flag-for-haiti)  
 
 I'm Christian ✝️ <br/>
-Information Technology student at ACU 🎓<br/>
+Information Technology student at RMIT VN 🎓<br/>
 I have a blog focused on cybersecurity: [lockpoint.blogspot.com](https://lockpoint.blogspot.com) 🔒💻<br/>
 Self-study in my free time 📚<br/>
 Follow me on Instagram: [@bradleyb010](https://www.instagram.com/bradleyb010/) 📸
