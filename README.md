@@ -7,6 +7,33 @@
 
 ---
 
+## 🎓 Education
+### ![RMIT](https://img.shields.io/badge/RMIT_University-CC0000?style=for-the-badge&logo=academia&logoColor=white)  
+### **Bachelor of Information Technology (Cybersecurity Stream)**  
+📍 Ho Chi Minh City, Vietnam  
+
+💼 Learning and building skills in:
+- Network Security  
+- Secure Coding  
+- System Administration  
+- Cloud & Virtualization  
+- Threat Detection & Response  
+- Ethical Hacking Labs (Kali Linux, VMware, VirtualBox)  
+- IT Infrastructure & Automation  
+
+🧠 Applying knowledge through real labs, cybersecurity projects, and continuous self-study.
+
+---
+
+## 🚀 Currently Working On
+- 🛡️ Building a personal **Cybersecurity Lab** using Kali Linux, VMs & PowerShell  
+- 📂 Developing **Python automation tools** for security tasks  
+- 🌐 Strengthening skills in **networking & secure system administration**  
+- 🧪 Practicing on **TryHackMe**, **HackTheBox**, and cybersecurity simulations  
+- 🔄 Expanding my **GitHub portfolio** with real-world IT projects  
+
+---
+
 ## 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bradleyb010/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bradley-baptiste-20b9a3310/) 
