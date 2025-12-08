@@ -3,7 +3,7 @@
 
 🔐 Passionate about Cyber Defense, Digital Security, and Ethical Technology  
 📚 Self-taught with hands-on experience through labs, simulations, and real projects  
-✝️ Christian | 🇭🇹 Haitian | Based in HCMC, Vietnam  
+✝️ Christian | 🇭🇹 Haitian | 🇻🇳 Based in Vietnam
 
 ---
 
