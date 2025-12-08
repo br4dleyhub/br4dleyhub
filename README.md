@@ -1,24 +1,67 @@
-Hi, I'm Bradley [🇭🇹](https://emojitool.com/fr/flag-for-haiti)  
+# 👋 Hi, I'm Bradley  
+**Information Technology Student | Cybersecurity Enthusiast | Creator**
 
-I'm Christian ✝️ <br/>
-Information Technology student at RMIT VN 🎓<br/>
-I have a blog focused on cybersecurity: [lockpoint.blogspot.com](https://lockpoint.blogspot.com) 🔒💻<br/>
-Self-study in my free time 📚<br/>
-Follow me on Instagram: [@bradleyb010](https://www.instagram.com/bradleyb010/) 📸
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bradleyb010/)  [![Blog](https://img.shields.io/badge/Blog-%2300C4CC.svg?style=for-the-badge&logo=blogger&logoColor=white)](https://lockpoint.blogspot.com)
-
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=br4dleyhub&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=br4dleyhub&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=br4dleyhub&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🔐 Passionate about Cyber Defense, Digital Security, and Ethical Technology  
+📚 Self-taught with hands-on experience through labs, simulations, and real projects  
+✝️ Christian | 🇭🇹 Haitian | Based in HCMC, Vietnam  
 
 ---
+
+## 🌐 Connect With Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bradleyb010/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bradley-baptiste-20b9a3310/) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@incognito5o9)
+
+---
+
+# 💻 Technical Skills
+
+### **Cybersecurity & IT**
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### **Programming**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### **Design & Creative Tools**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+---
+
+# 📊 GitHub Analytics
+![](https://github-readme-stats.vercel.app/api?username=br4dleyhub&theme=github_dark&hide_border=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=br4dleyhub&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=br4dleyhub&theme=github_dark&hide_border=false&layout=compact)
+
+---
+
+## 🏆 Achievements
+![](https://github-profile-trophy.vercel.app/?username=br4dleyhub&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## 🔝 Top Contributions
+![](https://github-contributor-stats.vercel.app/api?username=br4dleyhub&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+
+---
+
+## 🔢 Profile Views  
 [![](https://visitcount.itsvg.in/api?id=br4dleyhub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 💰 Support My Work
+If you'd like to support my learning journey:
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/CarlBradleyB5o9)
+
+---
+
+<!-- Created with ❤️ and continuous learning in Cybersecurity -->
