@@ -8,7 +8,6 @@
 ---
 
 ## 🎓 Education
-### ![RMIT](https://img.shields.io/badge/RMIT_University-CC0000?style=for-the-badge&logo=academia&logoColor=white)  
 ### **Bachelor of Information Technology (Cybersecurity Stream)**  
 📍 Ho Chi Minh City, Vietnam  
 
