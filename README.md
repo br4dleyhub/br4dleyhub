@@ -65,9 +65,12 @@
 ---
 
 # 📊 GitHub Analytics
-![](https://github-readme-stats.vercel.app/api?username=br4dleyhub&theme=github_dark&hide_border=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=br4dleyhub&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=br4dleyhub&theme=github_dark&hide_border=false&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=br4dleyhub&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=br4dleyhub&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=br4dleyhub&theme=github_dark&hide_border=true&layout=compact)
 
 ---
 
