@@ -66,9 +66,9 @@
 
 # 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=br4dleyhub&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true)
+# 📊 GitHub Analytics
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=br4dleyhub&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=br4dleyhub&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=br4dleyhub&theme=github_dark&hide_border=true&layout=compact)
 
